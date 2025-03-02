@@ -362,7 +362,7 @@ If you decide to use the `creationId` method, you are safe to add, remove and re
 
 ## Find and Modify Shapes
 
-There are basically to ways to access a target shape on a slide:
+There are basically two ways to access a target shape on a slide:
 
 - `slide.modifyElement(...)` requires an existing shape on the current slide,
 - `slide.addElement(...)` adds a shape from another slide to the current slide.
